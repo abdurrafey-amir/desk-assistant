@@ -53,5 +53,6 @@ Made a list of all the parts I needed and checked prices on multiple websites. F
 
 ![shopping cart 1](image-9.png)
 ![shopping cart 2](image-11.png)
+![shopping cart](cart.png)
 
 **Total time spent: 2.5h**

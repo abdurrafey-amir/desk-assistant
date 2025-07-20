@@ -46,3 +46,12 @@ Going with the 4th design. The whole slope part can be the touchscreen. Refined 
 ![back and inside](image-8.png)
 
 **Total time spent: 4h**
+
+# July 17th: Found parts
+
+Made a list of all the parts I needed and checked prices on multiple websites. Found them all on aliexpress and completed my cart. It has all the parts I need other than the case and some small things like a couple resistors because aliexpress only has packs of 20 or 50 on there and I only need a couple so I think I'll buy this stuff from local shops when everything else arrives. Made a BOM with everything. Prices in pkr and usd both. Also included the description of every part to explain why it's needed. Added aliexpress links to everything aswell. (i used the pkr-usd conversion rate on google). Will finalize the 3d design and then start working on the os after this.
+
+![shopping cart 1](image-9.png)
+![shopping cart 2](image-11.png)
+
+**Total time spent: 2.5h**
